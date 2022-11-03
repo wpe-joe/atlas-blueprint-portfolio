@@ -11,11 +11,13 @@
 .content {
   font-size: 2.4rem;
   font-style: italic;
-  margin-bottom: 2rem;
+  margin-bottom: 5rem;
+  color: white;
 }
 
 .author {
   text-transform: uppercase;
   font-size: 1.4rem;
   font-weight: $font-weight-extra-bold;
+  font-style: italic;
 }
